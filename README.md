@@ -43,7 +43,7 @@ Upgrade now:
 pip install --upgrade obscuratee
 ```
 
-for the rest, please refer to :  
+for the rest of you, please refer to :  
 
 ## 📦 Installation
 
