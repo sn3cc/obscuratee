@@ -8,7 +8,7 @@ _Reimagining terminal communication through marine-inspired innovation._
 
 At the intersection of marine biology, and questionable priorities, **Obscuratee** emerges as the premier platform for delivering **factually ambiguous aquatic knowledge** directly to your terminal.
 
-> _"It's like if cowsay and pokemon-colorscripts had a child... just worse... and with a manatee..."_
+> _"It's like if [cowsay](https://github.com/piuccio/cowsay) and [pokemon-colorscripts](https://github.com/nuke-dash/pokemon-colorscripts-mac) had a child... just worse... and with a manatee..."_
 > — Our beloved CTO
 
 ---
@@ -30,7 +30,7 @@ At the intersection of marine biology, and questionable priorities, **Obscuratee
 
 > **What’s new in v1.1.1**
 >
-> - 🌈 Now with full **color ASCII manatees** (think [pokemon-colorscripts](https://github.com/nuke-dash/pokemon-colorscripts-mac), but unhinged)
+> - 🌈 Now with full **color ASCII manatees**, absolutely unhinged)
 > - `--curse` mode = terminal glow-up
 > - Moved the old art to `--legacy` and `--legacy --vibe` mode 
 >
